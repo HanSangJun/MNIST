@@ -4,6 +4,6 @@ Although MNIST example has been tutorial for deep learning beginner, it is not e
 On Kaggle MNIST dataset, I got 0.99542 accuracy.
 
 ### Developer Information
-Sangjun Han
-LG CNS, South Korea
-written on 2018-09-27
+- Sangjun Han
+- LG CNS, South Korea
+- written on 2018-09-27
